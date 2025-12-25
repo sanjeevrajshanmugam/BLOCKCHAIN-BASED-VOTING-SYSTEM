@@ -25,7 +25,6 @@ VoteUp is a decentralized voting platform built on the Ethereum blockchain that 
 * [Benefits](#-benefits)
 * [File Structure](#-file-structure)
 * [Contributing](#-contributing)
-* [License](#-license)
 * [Contact](#-contact)
 
 ---
