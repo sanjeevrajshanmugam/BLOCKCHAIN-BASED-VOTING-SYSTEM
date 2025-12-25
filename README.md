@@ -316,10 +316,6 @@ Whether it's bug fixes, feature additions, or documentation updates — all cont
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-See [LICENSE](./LICENSE) for more details.
 
 ---
 
