@@ -124,7 +124,7 @@ Smart Contract Layer (Solidity on Sepolia)
 ### 🖥️ Clone the Repository
 
 ```bash
-git clone https://github.com/Het2239/VoteUp.git
+git clone https://github.com/sanjeevrajshanmugam/BLOCKCHAIN-BASED-VOTING-SYSTEM.git
 cd VoteUp
 ```
 
@@ -328,6 +328,6 @@ See [LICENSE](./LICENSE) for more details.
 Created with ❤️ by **SANJEEV RAJ.S**
 
 * 📧 Email: [sanjeevsms232@gmail.com](mailto:sanjeevsms232@gmail.com)
-* 💍 GitHub: [@Het2239](https://github.com/Het2239)
+* 💍 GitHub: [https://github.com/sanjeevrajshanmugam]
 
 > If you use this project or find it helpful, feel free to ⭐ the repo!
